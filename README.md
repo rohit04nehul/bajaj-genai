@@ -1,6 +1,9 @@
 # Bajaj Finserv AI Assistant
 
+🌐 [Live Demo](https://gorgeous-bubblegum-85e15a.netlify.app/)
+
 An intelligent financial chatbot that provides insights on Bajaj Finserv using quarterly earnings call transcripts and historical stock price data. The application leverages AI-powered vector search to answer complex financial questions with context-aware responses.
+
 
 ## 🚀 Features
 
